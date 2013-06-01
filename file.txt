@@ -1,1 +1,2 @@
-Hi for all
+This is my second commit
+No, this is next (3th) commit
